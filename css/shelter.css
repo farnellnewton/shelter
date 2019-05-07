@@ -1,0 +1,10 @@
+.profile img {
+  width: 200px;
+  height: 125px;
+}
+
+.profile {
+width: 250px;
+float: left;
+padding: 10px;
+}
