@@ -1,10 +1,28 @@
+body {
+  background-color: #3e72c4;
+}
+body h1 {
+  text-align: center;
+  color: #cedbef;
+}
+body p {
+  text-align: center;
+  color: #cedbef;
+}
 .profile img {
   width: 200px;
   height: 125px;
 }
-
 .profile {
 width: 250px;
+height: 500px;
 float: left;
+margin: 10px;
 padding: 10px;
+background-color: #cedbef;
+}
+
+.profile p {
+  color: black;
+  text-align: left;
 }
